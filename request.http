@@ -1,0 +1,6 @@
+POST http://localhost:8000/instagram Http/1.1
+Content-Type: application/json
+
+{
+  "link": "https://www.instagram.com/set.men"
+}
